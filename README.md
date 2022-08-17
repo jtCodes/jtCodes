@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jtCodes&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jtCodes&langs_count=5&theme=tokyonight)]()
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/jtCodes/jtCodes/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/jtCodes/jtCodes/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
